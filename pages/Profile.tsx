@@ -17,7 +17,7 @@ const Profile: React.FunctionComponent<AppProps> = ({ }) => {
                     <img src="images/pooria.jpg" alt="Image" />
                   </a>
                 </div>
-                <div className="h2 title">PooriaAshkevarVakili</div>
+                <div className="h2 title">Danial Omidi</div>
                 <p className="text-white category">
                   Front-end Web Developer react, Front-end Mobile react-native,
                   html css js
